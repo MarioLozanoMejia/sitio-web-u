@@ -43,7 +43,7 @@
   --font-family-sans-serif: "Ubuntu", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
-p{
+.p{
   text-align: justify;
 }
 p {
